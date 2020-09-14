@@ -28,11 +28,13 @@
 2、尝试使用 Gulp 完成项目的自动化构建
 
   *代码在code/gulp-test*
+	
   *说明文档在code/gulp-test/说明文档.md*
 
 3、使用 Grunt 完成项目的自动化构建
 
   *代码在code/grunt-test*
+
   *说明文档在code/grunt-test/说明文档.md*
 
 <strong>学习笔记</strong><br/>
